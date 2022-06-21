@@ -1,0 +1,5 @@
+print("Welcome to the simplest addition calculator in the world")
+num1 = input("Enter your first number: ")
+num2 = input("Enter your second number: ")
+result = int(num1) + int(num2)
+print("Your answer is " + str(result))
